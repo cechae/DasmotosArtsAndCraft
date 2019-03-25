@@ -1,3 +1,3 @@
 # DasmotosArtsAndCraft
 
-only used HTML and CSS to create a static website.
+I used HTML and CSS to create a static website.
